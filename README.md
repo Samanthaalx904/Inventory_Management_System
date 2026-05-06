@@ -139,7 +139,7 @@ The SQLite database (`ims.db`) is initialized automatically. Key tables include:
 
 ## 🎨 Theme & Colors
 
-The UI uses a consistent dark color palette defined in `main.py`:
+The UI uses a consistent dark color palette defined in `InventotyManagementSystetmComplete.py`:
 
 | Token           | Color     | Usage                    |
 |-----------------|-----------|--------------------------|
@@ -209,10 +209,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@Samanthaalx904](https://github.com/Samanthaalx904)
+- Email: qyream1@gmail.com
 
 ---
 

@@ -158,7 +158,7 @@ The UI uses a consistent dark color palette defined in `InventotyManagementSyste
 ## 🔄 Application Flow
 
 ```
-main.py
+InventotyManagementSystetmComplete.py
   └── LoginWindow()
         └── on_success(role, username)
               └── launch_app(role, username)
